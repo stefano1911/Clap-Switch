@@ -1,4 +1,4 @@
-#include <Arduino.h>  // ← Notwendig für PlatformIO
+#include <Arduino.h>  
 
 const int sensorPin = A0; 
 const int ledPin = 10; 
